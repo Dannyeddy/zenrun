@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>ZenRun</title>
+    <script>
+      var pathSegmentsToKeep = 1;
+      var locationRef = window.location;
+      var repoPath = locationRef.pathname
+        .split('/')
+        .slice(0, 1 + pathSegmentsToKeep)
+        .join('/');
+      var routePath = locationRef.pathname
+        .slice(repoPath.length)
+        .replace(/&/g, '~and~');
+      var routeSearch = locationRef.search
+        ? '&' + locationRef.search.slice(1).replace(/&/g, '~and~')
+        : '';
+
+      locationRef.replace(
+        locationRef.protocol +
+          '//' +
+          locationRef.hostname +
+          (locationRef.port ? ':' + locationRef.port : '') +
+          repoPath +
+          '/?/' +
+          routePath +
+          routeSearch +
+          locationRef.hash,
+      );
+    </script>
+  </head>
+  <body></body>
+</html>

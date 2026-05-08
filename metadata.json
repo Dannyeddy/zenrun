@@ -1,0 +1,5 @@
+{
+  "name": "zenrun",
+  "description": "A wellness adventure app with pet companions, cultural checkpoints, and gamified wellness journeys.",
+  "requestFramePermissions": ["geolocation"]
+}

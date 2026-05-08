@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+	<Document id="TbuluKmlVersion2">
+		<name><![CDATA[平江路狮子林苏州博物馆拙政园路线]]></name>
+		<Style id="TrackStyle_n">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=BYohR0x5OLAr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ee0000ff</color>
+				<width>5.000000</width>
+			</LineStyle>
+		</Style>
+		<Style id="TrackStyle_h">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=BYohR0x5OLAr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>7.000000</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="TrackStyle">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#TrackStyle_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#TrackStyle_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="LineStringStyle">
+			<LineStyle>
+				<color>dd5cba55</color>
+				<width>6.000000</width>
+			</LineStyle>
+		</Style>
+		<Style id="startPointStyle">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=n%2BVE0NaFmzwndk%2BZ75NU9A%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="endPointStyle">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=0Q3GJ5o%2FHpsr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStylePicture">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=vMzvc3dTBl0r0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSound">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=poL0RfxWHTIr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleVideo">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=vMzvc3dTBl0r0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleText">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=s2An6%2B3%2BIWUr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<ExtendedData>
+			<Data name="TrackId">
+				<value>83645129</value>
+			</Data>
+			<Data name="OriginTrackId">
+				<value>83645129</value>
+			</Data>
+			<Data name="SportTypeId">
+				<value>-1</value>
+			</Data>
+			<Data name="SportTypeName">
+				<value><![CDATA[其它]]></value>
+			</Data>
+			<Data name="OperationType">
+				<value>2</value>
+			</Data>
+			<Data name="Privacy">
+				<value>1</value>
+			</Data>
+			<Data name="TrackTypeId">
+				<value>7</value>
+			</Data>
+			<Data name="TrackTags">
+				<value><![CDATA[手绘规划]]></value>
+			</Data>
+			<Data name="PosStartName">
+				<value><![CDATA[平江路起点]]></value>
+			</Data>
+			<Data name="PosEndName">
+				<value><![CDATA[平江路终点]]></value>
+			</Data>
+			<Data name="Distance">
+				<value>3019.811392347865</value>
+			</Data>
+			<Data name="ElevationGain">
+				<value>43</value>
+			</Data>
+			<Data name="ElevationLoss">
+				<value>38</value>
+			</Data>
+			<Data name="ProductVersion">
+				<value>9.0.2</value>
+			</Data>
+			<Data name="ContextInfo">
+				<value>region:zh_CN;lan:zh-Hans;model:iPad14,3;system:17.5.1;app:2bulu-V9.0.2;tag:NotRecord</value>
+			</Data>
+			<Data name="CreaterId">
+				<value>68093594</value>
+			</Data>
+			<Data name="CreaterName">
+				<value>zs_fdlvzxc</value>
+			</Data>
+			<Data name="CreaterIcon">
+				<value>0</value>
+			</Data>
+			<Data name="OriginCreaterId">
+				<value>68093594</value>
+			</Data>
+			<Data name="OriginCreaterName">
+				<value>zs_fdlvzxc</value>
+			</Data>
+			<Data name="OriginCreaterNickname">
+				<value>zs_fdlvzxc</value>
+			</Data>
+			<Data name="OriginCreaterIcon">
+				<value>0</value>
+			</Data>
+			<Data name="ThumbnailId">
+				<value>0</value>
+			</Data>
+			<Data name="Step">
+				<value>0</value>
+			</Data>
+			<Data name="Calorie">
+				<value>0.000000</value>
+			</Data>
+			<Data name="Mileage">
+				<value>3019.811392</value>
+			</Data>
+			<Data name="Source">
+				<value>0</value>
+			</Data>
+			<Data name="FragmentId">
+				<value>0</value>
+			</Data>
+		</ExtendedData>
+		<Folder id="TbuluHisPointFolder">
+			<name><![CDATA[标注点]]></name>
+			<Placemark id="startPoint">
+				<name><![CDATA[起点]]></name>
+				<description><![CDATA[<div>经度：120.629581</div><div>纬度：31.316108</div><div>海拔：15.000000</div><div>时间：2001-01-01 08:00:00</div>]]></description>
+				<styleUrl>#startPointStyle</styleUrl>
+				<Point>
+					<coordinates>120.629581,31.316108,15.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="endPoint">
+				<name><![CDATA[终点]]></name>
+				<description><![CDATA[<div>经度：120.629703</div><div>纬度：31.315607</div><div>海拔：20.000000</div><div>时间：2001-01-01 08:00:00</div>]]></description>
+				<styleUrl>#endPointStyle</styleUrl>
+				<Point>
+					<coordinates>120.629703,31.315607,20.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[平江路起点]]></name>
+				<description><![CDATA[<div>经度：120.629586</div><div>纬度：31.316106</div><div>海拔：16.000000</div><div>时间：2026-05-05 00:52:06</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>0</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.629586</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.316106</value>
+					</Data>
+					<Data name="Altitude">
+						<value>16.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777913526522</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.629586,31.316106,16.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[第一个拐点]]></name>
+				<description><![CDATA[<div>经度：120.628004</div><div>纬度：31.322755</div><div>海拔：16.000000</div><div>时间：2026-05-05 00:52:06</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>0</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.628004</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.322755</value>
+					</Data>
+					<Data name="Altitude">
+						<value>16.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777913526522</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.628004,31.322755,16.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[狮子林]]></name>
+				<description><![CDATA[<div>经度：120.625529</div><div>纬度：31.322945</div><div>海拔：16.000000</div><div>时间：2026-05-05 00:52:06</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>0</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.625529</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.322945</value>
+					</Data>
+					<Data name="Altitude">
+						<value>16.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777913526522</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.625529,31.322945,16.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[平江路终点]]></name>
+				<description><![CDATA[<div>经度：120.629699</div><div>纬度：31.315611</div><div>海拔：20.000000</div><div>时间：2026-05-05 00:53:10</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>0</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.629699</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.315611</value>
+					</Data>
+					<Data name="Altitude">
+						<value>20.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777913590956</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.629699,31.315611,20.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[第二个拐点]]></name>
+				<description><![CDATA[<div>经度：120.625763</div><div>纬度：31.322437</div><div>海拔：17.000000</div><div>时间：2026-05-05 01:02:32</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>4</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.625763</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.322437</value>
+					</Data>
+					<Data name="Altitude">
+						<value>17.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777914152296</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.625763,31.322437,17.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[第三个拐点]]></name>
+				<description><![CDATA[<div>经度：120.625099</div><div>纬度：31.325045</div><div>海拔：18.000000</div><div>时间：2026-05-05 01:03:17</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>5</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.625099</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.325045</value>
+					</Data>
+					<Data name="Altitude">
+						<value>18.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777914197777</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.625099,31.325045,18.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[苏州博物馆]]></name>
+				<description><![CDATA[<div>经度：120.623717</div><div>纬度：31.324834</div><div>海拔：13.000000</div><div>时间：2026-05-05 01:03:32</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>6</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.623717</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.324834</value>
+					</Data>
+					<Data name="Altitude">
+						<value>13.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777914212750</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.623717,31.324834,13.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[拙政园]]></name>
+				<description><![CDATA[<div>经度：120.626257</div><div>纬度：31.325503</div><div>海拔：16.000000</div><div>时间：2026-05-05 01:03:56</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>7</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.626257</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.325503</value>
+					</Data>
+					<Data name="Altitude">
+						<value>16.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777914236501</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.626257,31.325503,16.000000</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="realPoint">
+				<name><![CDATA[第四个拐点]]></name>
+				<description><![CDATA[<div>经度：120.627718</div><div>纬度：31.325645</div><div>海拔：18.000000</div><div>时间：2026-05-05 01:04:12</div>]]></description>
+				<styleUrl>MarkerStyleText</styleUrl>
+				<ExtendedData>
+					<Data name="Type">
+						<value>Point</value>
+					</Data>
+					<Data name="ServerId">
+						<value>8</value>
+					</Data>
+					<Data name="PosType">
+						<value>0</value>
+					</Data>
+					<Data name="description">
+					</Data>
+					<Data name="Longtitude">
+						<value>120.627718</value>
+					</Data>
+					<Data name="Latitude">
+						<value>31.325645</value>
+					</Data>
+					<Data name="Altitude">
+						<value>18.000000</value>
+					</Data>
+					<Data name="Speed">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Accuracy">
+						<value>0.000000</value>
+					</Data>
+					<Data name="Time">
+						<value>1777914252383</value>
+					</Data>
+					<Data name="FileId">
+						<value>0</value>
+					</Data>
+					<Data name="FileSize">
+						<value>0</value>
+					</Data>
+					<Data name="FileName">
+					</Data>
+					<Data name="FileType">
+						<value>-1</value>
+					</Data>
+					<Data name="FilePath">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.627718,31.325645,18.000000</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="TbuluLineStringFolder">
+			<name><![CDATA[导航线]]></name>
+			<Placemark>
+				<styleUrl>#LineStringStyle</styleUrl>
+				<LineString>
+					<coordinates>120.629581,31.316108,15.000000 120.629586,31.316106,16.000000 120.629517,31.316436,14.000000 120.629517,31.316436,14.000000 120.629314,31.317173,16.000000 120.629314,31.317173,16.000000 120.629188,31.317755,8.000000 120.629188,31.317755,8.000000 120.629145,31.317985,15.000000 120.629145,31.317985,15.000000 120.629123,31.318085,15.000000 120.629123,31.318085,15.000000 120.629006,31.318436,16.000000 120.629006,31.318436,16.000000 120.628975,31.318614,17.000000 120.628975,31.318614,17.000000 120.628962,31.318662,17.000000 120.628902,31.318779,17.000000 120.628828,31.319235,14.000000 120.628776,31.319330,17.000000 120.628758,31.319400,17.000000 120.628758,31.319400,17.000000 120.628619,31.319968,7.000000 120.628619,31.319968,7.000000 120.628537,31.320255,9.000000 120.628537,31.320255,9.000000 120.628456,31.320689,10.000000 120.628456,31.320689,10.000000 120.628390,31.321080,18.000000 120.628390,31.321080,18.000000 120.628191,31.321861,20.000000 120.628191,31.321861,20.000000 120.628117,31.322195,17.000000 120.628117,31.322195,17.000000 120.628009,31.322755,16.000000 120.628004,31.322755,16.000000 120.627835,31.322733,16.000000 120.627835,31.322733,16.000000 120.627441,31.322672,17.000000 120.627441,31.322672,17.000000 120.627050,31.322626,21.000000 120.627050,31.322626,21.000000 120.626613,31.322579,19.000000 120.626613,31.322579,19.000000 120.626222,31.322536,19.000000 120.625768,31.322437,17.000000 120.625763,31.322437,17.000000 120.625694,31.322689,17.000000 120.625659,31.322827,17.000000 120.625659,31.322827,17.000000 120.625624,31.322953,16.000000 120.625624,31.322953,16.000000 120.625529,31.322945,16.000000 120.625515,31.323001,16.000000 120.625510,31.322997,16.000000 120.625520,31.322940,16.000000 120.625620,31.322953,16.000000 120.625620,31.322953,16.000000 120.625555,31.323175,16.000000 120.625555,31.323175,16.000000 120.625455,31.323544,17.000000 120.625455,31.323544,17.000000 120.625351,31.323917,15.000000 120.625351,31.323917,15.000000 120.625277,31.324177,14.000000 120.625186,31.324468,15.000000 120.625186,31.324468,15.000000 120.625099,31.324768,14.000000 120.625099,31.324768,14.000000 120.625099,31.325045,18.000000 120.625095,31.325045,18.000000 120.625000,31.325015,18.000000 120.625000,31.325015,18.000000 120.624657,31.324937,16.000000 120.624657,31.324937,16.000000 120.623847,31.324769,20.000000 120.623847,31.324769,20.000000 120.623747,31.324747,13.000000 120.623743,31.324742,13.000000 120.623717,31.324834,13.000000 120.623706,31.324832,13.000000 120.623702,31.324828,13.000000 120.623712,31.324829,13.000000 120.623743,31.324747,13.000000 120.623743,31.324747,13.000000 120.623843,31.324764,20.000000 120.623843,31.324764,20.000000 120.624653,31.324937,16.000000 120.624653,31.324937,16.000000 120.624996,31.325011,18.000000 120.624996,31.325011,18.000000 120.625095,31.325045,18.000000 120.625095,31.325045,18.000000 120.625689,31.325214,18.000000 120.626287,31.325373,15.000000 120.626287,31.325373,15.000000 120.626257,31.325503,16.000000 120.626252,31.325505,16.000000 120.626247,31.325501,19.000000 120.626257,31.325499,16.000000 120.626287,31.325377,15.000000 120.626287,31.325373,15.000000 120.626686,31.325468,13.000000 120.626686,31.325468,13.000000 120.626968,31.325533,13.000000 120.626968,31.325533,13.000000 120.627120,31.325576,12.000000 120.627415,31.325623,15.000000 120.627415,31.325623,15.000000 120.627718,31.325645,18.000000 120.627718,31.325645,18.000000 120.627722,31.325432,18.000000 120.627722,31.325432,18.000000 120.627800,31.324690,7.000000 120.627800,31.324690,7.000000 120.627839,31.324347,7.000000 120.627839,31.324347,7.000000 120.627844,31.324238,7.000000 120.627844,31.324238,7.000000 120.627852,31.324178,7.000000 120.627926,31.323449,14.000000 120.627926,31.323449,14.000000 120.627982,31.322929,16.000000 120.627982,31.322929,16.000000 120.628004,31.322759,16.000000 120.628004,31.322759,16.000000 120.628113,31.322199,17.000000 120.628113,31.322199,17.000000 120.628186,31.321865,20.000000 120.628186,31.321865,20.000000 120.628386,31.321084,18.000000 120.628386,31.321084,18.000000 120.628451,31.320693,10.000000 120.628451,31.320693,10.000000 120.628533,31.320259,9.000000 120.628533,31.320259,9.000000 120.628615,31.319973,7.000000 120.628615,31.319973,7.000000 120.628754,31.319404,17.000000 120.628754,31.319404,17.000000 120.628771,31.319335,17.000000 120.628828,31.319239,14.000000 120.628897,31.318784,17.000000 120.628958,31.318666,17.000000 120.628971,31.318614,17.000000 120.628971,31.318614,17.000000 120.629001,31.318441,16.000000 120.629001,31.318441,16.000000 120.629119,31.318089,15.000000 120.629119,31.318089,15.000000 120.629140,31.317989,15.000000 120.629140,31.317989,15.000000 120.629184,31.317759,8.000000 120.629184,31.317759,8.000000 120.629310,31.317178,16.000000 120.629310,31.317178,16.000000 120.629513,31.316440,14.000000 120.629513,31.316440,14.000000 120.629699,31.315611,20.000000 120.629699,31.315611,20.000000 120.629699,31.315611,20.000000 120.629703,31.315607,20.000000 </coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
