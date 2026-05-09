@@ -4,9 +4,10 @@ ZenRun is a mobile-first, human-centred running web app prototype that combines 
 
 ## Submission Links
 
-- Live URL: To be added after deployment.
-- Repository URL: To be added after GitHub upload.
-- Recommended device: mobile viewport, such as iPhone 12/13/14 size.
+- Live App URL: https://dannyeddy.github.io/zenrun/
+- GitHub Repository: https://github.com/Dannyeddy/zenrun
+- Recommended View: Mobile viewport / responsive browser preview
+- Recommended device: mobile viewport.
 - Data evidence page: `/system-data`
 - Detailed marker guide: [docs/MARKER_GUIDE.md](docs/MARKER_GUIDE.md)
 - Data handling documentation: [docs/DATA_HANDLING.md](docs/DATA_HANDLING.md)
